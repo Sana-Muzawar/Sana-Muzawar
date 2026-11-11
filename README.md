@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Sana Muzawar 👋
 
-<!--
-**Sana-Muzawar/Sana-Muzawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | AI/ML Enthusiast | Machine Learning
 
-Here are some ideas to get you started:
+👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science & Engineering graduate.
+💻 Exploring Python Development and Full-Stack Engineering.
+🌱 Currently learning advanced AI concepts and modern development technologies.
+🚀 Passionate about building practical, real-world applications.
+🎯 Always learning, exploring and improving.
+
+🛠️ Tech Stack
+
+Languages
+Python | Java | C | SQL | JavaScript
+
+Web Development
+HTML | CSS | JavaScript | React | Flask | Django
+
+AI & Machine Learning
+Machine Learning | NLP | OpenCV 
+
+Database & Tools
+MySQL | Git | GitHub | VS Code | Jupyter Notebook
+
